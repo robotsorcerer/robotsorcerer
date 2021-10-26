@@ -14,13 +14,13 @@ year    = {2021},
 
 ### About Me
 
-I am a researcher who combines the scientific elegance of machine learning and control theory with the practical impact of robotics.  
+I am a researcher who combines the scientific elegance of machine learning and control theory with the practical impact of robotics.  As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club.  
 <!-- 
 In my research career, I have applied my machine learning and control expertise to real-world clinical applications in medical physics as well as the consumer robotics industry. After obtaining a PhD in Electrical Engineering at The University of Texas at Dallas, I held a brief postdoc stint at University of Chicago’s Duchossois Center for Advanced Medicine (DCAM) before our lab moved to the Perelman School of Medicine (PSOM) at The University of Pennsylvania. In my time at DCAM and PSOM, I proposed the design, and control of a soft parallel robot mechanism for real-time patient head-motion correction in stereo-tactic radiosurgery, and in emerging magnetic resonance-linear accelerator photon-based cancer therapy. **I am not a robot.** -->
-
+<!-- 
 ### How I keep it all together
 
-As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club.  
+As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club.   -->
 
 
 <p align="center">
