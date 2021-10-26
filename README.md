@@ -10,6 +10,15 @@ journal = {Technical Report, Perelman School of Medicine, University of Pennsylv
 year    = {2021},
 }</pre></details>
 
+
+- [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
+@article{TrendsSRS,
+title   = {Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.}, 
+author  = {Ogunmolu, Olalekan and Wiersma, Rodney},
+journal = {Perelman School of Medicine, University of Pennsylvania},
+year    = {2021},
+}</pre></details>
+
 </td><td align="center" valign="top" width="180">
 
 ### About Me
