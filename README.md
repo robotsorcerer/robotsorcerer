@@ -5,7 +5,7 @@
 - [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https://github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.}, 
-author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Perz-Dattari, Rodrigo},
+author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Pérez-Dattari, Rodrigo},
 journal = {Open-Source Contribution},
 year    = {2021},
 }</pre></details>
