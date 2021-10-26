@@ -1,6 +1,14 @@
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
-### Recent Preprints / Publications
+### Recent Preprints / OSS
+
+- [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**]()<details><summary>BibTeX</summary><pre>
+@article{LearnCLFs,
+title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.}, 
+author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Perz-Dattari, Rodrigo},
+journal = {Open-Source Contribution},
+year    = {2021},
+}</pre></details>
 
 - [**Kinematics and Kinetics of an In-Parallel-Actuated Soft Manipulator.**](http://scriptedonachip.com/downloads/Papers/kinecontrol.pdf)<details><summary>BibTeX</summary><pre>
 @article{KinematicsKinetics,
@@ -10,9 +18,8 @@ journal = {Technical Report, Perelman School of Medicine, University of Pennsylv
 year    = {2021},
 }</pre></details>
 
-
 - [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
-@article{TrendsSRS,
+@article{TrendSRS,
 title   = {Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.}, 
 author  = {Ogunmolu, Olalekan and Wiersma, Rodney},
 journal = {Perelman School of Medicine, University of Pennsylvania},
