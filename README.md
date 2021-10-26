@@ -52,7 +52,7 @@ As often as I can get out of the lab, my happy place is on my road/mountain bike
 
 </td><td align="center" valign="top" width="190">
 
-### Tools I Use
+### Tools
 
 <p align="center">
     <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3690.pdf"><img src="https://img.shields.io/badge/-3776AB.svg?style=flat-square&logo=C&logoColor=white&logoWidth=0" height="25"/></a>
