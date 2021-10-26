@@ -2,7 +2,7 @@
 
 ### Recent Preprints / Open Source Software
 
-- [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**]()<details><summary>BibTeX</summary><pre>
+- [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https:/github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.}, 
 author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Perz-Dattari, Rodrigo},
@@ -20,7 +20,7 @@ year    = {2021},
 
 - [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
 @article{TrendSRS,
-title   = {Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.}, 
+title   = {Recent Trends in Robot-based Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.}, 
 author  = {Ogunmolu, Olalekan and Wiersma, Rodney},
 journal = {Perelman School of Medicine, University of Pennsylvania},
 year    = {2021},
@@ -51,7 +51,8 @@ As often as I can get out of the lab, my happy place is on my road/mountain bike
 ### Tools I Use
 
 <p align="center">
-    <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3690.pdf"><img src="https://img.shields.io/badge/-3776AB.svg?style=flat-square&logo=ros&logoColor=white&logoWidth=0" height="25"/></a>
+    <a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3690.pdf"><img src="https://img.shields.io/badge/-3776AB.svg?style=flat-square&logo=C&logoColor=white&logoWidth=0" height="25"/></a>
+    <a href="http://wiki.ros.org"><img src="https://img.shields.io/badge/-3776AB.svg?style=flat-square&logo=ros&logoColor=white&logoWidth=0" height="25"/></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-3776AB.svg?style=flat-square&logo=python&logoColor=white&logoWidth=0" height="25"/></a>
     <a href="https://en.wikipedia.org/wiki/Unix_shell"><img src="https://img.shields.io/badge/-4EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/></a>
     <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/-008080.svg?style=flat-square&logo=latex&logoColor=white" height="25"/></a>
