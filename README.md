@@ -1,6 +1,6 @@
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
-### Recent Preprints / OSS
+### Recent Preprints / Open Source Software
 
 - [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**]()<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
