@@ -2,9 +2,17 @@
 
 ### Recent Preprints / Open Source Software
 
+- [**LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
+@article{LearnCLFs,
+title   = {LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.},
+author  = {Ogunmlu, Olalekan},
+journal = {Algorithm Foundations of Robotics, XV},
+year    = {2022},
+}</pre></details>
+
 - [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https://github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
-title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.}, 
+title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.},
 author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Pérez-Dattari, Rodrigo},
 journal = {Open-Source Contribution},
 year    = {2021},
@@ -12,33 +20,31 @@ year    = {2021},
 
 - [**Kinematics and Kinetics of an In-Parallel-Actuated Soft Manipulator.**](http://scriptedonachip.com/downloads/Papers/kinecontrol.pdf)<details><summary>BibTeX</summary><pre>
 @article{KinematicsKinetics,
-title   = {Kinematics and Kinetics of an In-Parallel-Actuated Soft Manipulator.}, 
+title   = {Kinematics and Kinetics of an In-Parallel-Actuated Soft Manipulator.},
 author  = {Ogunmolu, Olalekan},
 journal = {Technical Report, Perelman School of Medicine, University of Pennsylvania},
 year    = {2021},
 }</pre></details>
 
-- [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
+<!-- - [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
 @article{TrendSRS,
-title   = {Recent Trends in Robot-based Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.}, 
+title   = {Recent Trends in Robot-based Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.},
 author  = {Ogunmolu, Olalekan and Wiersma, Rodney},
 journal = {Perelman School of Medicine, University of Pennsylvania},
 year    = {2021},
-}</pre></details>
+}</pre></details> -->
 
 </td><td align="center" valign="top" width="180">
 
-### Read my lips.
+The geeks shall inherit the earth.
 
-Researchers with large commit footprints shall inherit the earth.
-
-<!-- 
+<!--
     A researcher who combines the scientific elegance of machine learning and control theory with the practical impact of robotics.
 
 Some people are not electrically neutral: iResearch.  iCyle. iProfess. iRun. But really, iAm.
-    As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club. 
+    As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club.
 In my research career, I have applied my machine learning and control expertise to real-world clinical applications in medical physics as well as the consumer robotics industry. After obtaining a PhD in Electrical Engineering at The University of Texas at Dallas, I held a brief postdoc stint at University of Chicago’s Duchossois Center for Advanced Medicine (DCAM) before our lab moved to the Perelman School of Medicine (PSOM) at The University of Pennsylvania. In my time at DCAM and PSOM, I proposed the design, and control of a soft parallel robot mechanism for real-time patient head-motion correction in stereo-tactic radiosurgery, and in emerging magnetic resonance-linear accelerator photon-based cancer therapy. **I am not a robot.** -->
-<!-- 
+<!--
 ### How I keep it all together
 
 As often as I can get out of the lab, my happy place is on my road/mountain bike, often with fellow cyclists in my cycling club.   -->
