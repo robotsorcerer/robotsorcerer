@@ -5,7 +5,7 @@
 - [**LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.},
-author  = {Ogunmolu, Olalekan},
+author  = {Ogunmolu, Olalekan and Others.},
 journal = {Algorithm Foundations of Robotics, XV},
 year    = {2022},
 }</pre></details>
@@ -40,12 +40,15 @@ year    = {2021},
     <a href="https://www.linkedin.com/in/robotsorcerer"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="25" width="145"/></a>
     <br></br>
     <a href="mailto:patlekno@icloud.com"><img src="https://img.shields.io/badge/Contact%20(Email)-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
+    <br></br>
+
+
+    The geeks shall inherit the earth.
 </p>
 
 </td><td align="center" valign="top" width="190">
 
 
-The geeks shall inherit the earth.
 
 
 ### Tools
