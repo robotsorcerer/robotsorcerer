@@ -5,7 +5,7 @@
 - [**LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.},
-author  = {Ogunmlu, Olalekan},
+author  = {Ogunmolu, Olalekan},
 journal = {Algorithm Foundations of Robotics, XV},
 year    = {2022},
 }</pre></details>
@@ -13,7 +13,7 @@ year    = {2022},
 - [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https://github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.},
-author  = {Ogunmlu, Olalekan and Thompson, Rachael Skye and Pérez-Dattari, Rodrigo},
+author  = {Ogunmolu, Olalekan and Thompson, Rachael Skye and Pérez-Dattari, Rodrigo},
 journal = {Open-Source Contribution},
 year    = {2021},
 }</pre></details>
