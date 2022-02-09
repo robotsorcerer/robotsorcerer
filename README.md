@@ -2,10 +2,36 @@
 
 ### Recent Preprints / Open Source Software
 
-- [**LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
+<!-- - [**Safe to the last Truncation! A Decomposition Scheme for Large Backward Reach Avoid Tubes.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
-title   = {LargeBRAT! Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.},
+title   = {Safe to the last Truncation! A Decomposition Scheme for Large Backward Reach Avoid Tubes.},
 author  = {Ogunmolu, Olalekan and Others.},
+journal = {Algorithm Foundations of Robotics, XV},
+year    = {2022},
+}</pre></details>
+ -->
+ 
+
+- [**On the Capture Surface of the Pursuit-Evasion Game of Certain Emergent Collective Behaviors.**](https://github.com/robotsorcerer/CaptureBRAT)<details><summary>BibTeX</summary><pre>
+@article{DDPBRAT,
+title   = {On the Capture Surface of the Pursuit-Evasion Game of Certain Emergent Collective Behaviors.},
+author  = {Ogunmolu, Olalekan.},
+journal = {Transactions in Automatic Control.},
+year    = {2022},
+}</pre></details>
+
+- [**Differential Dynamic Programming for Backward Reachability.**](https://github.com/robotsorcerer/DDPBRAT)<details><summary>BibTeX</summary><pre>
+@article{DDPBRAT,
+title   = {Differential Dynamic Programming for Backward Reachability.},
+author  = {Ogunmolu, Olalekan.},
+journal = {In Letters, Control Systems Society.},
+year    = {2022},
+}</pre></details>
+
+- [**Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.**](https://github.com/robotsorcerer/largeBRAT)<details><summary>BibTeX</summary><pre>
+@article{LargeBRAT,
+title   = {Complex Backward Reach-Avoid Tubes: An Emergent Collective Behavior Perspective.},
+author  = {Ogunmolu, Olalekan.},
 journal = {Algorithm Foundations of Robotics, XV},
 year    = {2022},
 }</pre></details>
