@@ -12,7 +12,7 @@ year    = {2022},
  -->
  
 
-- [**On the Capture Surface of the Pursuit-Evasion Game of Certain Emergent Collective Behaviors.**](https://github.com/robotsorcerer/CaptureBRAT)<details><summary>BibTeX</summary><pre>
+- [**On the Capture Surface of the Pursuit-Evasion Game in Certain Emergent Collective Behaviors.**](https://github.com/robotsorcerer/CaptureBRAT)<details><summary>BibTeX</summary><pre>
 @article{DDPBRAT,
 title   = {On the Capture Surface of the Pursuit-Evasion Game of Certain Emergent Collective Behaviors.},
 author  = {Ogunmolu, Olalekan.},
@@ -36,7 +36,7 @@ journal = {Algorithm Foundations of Robotics, XV},
 year    = {2022},
 }</pre></details>
 
-- [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https://github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
+<!-- - [**Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.**](https://github.com/robotsorcerer/LyapunovLearner)<details><summary>BibTeX</summary><pre>
 @article{LearnCLFs,
 title   = {Learning Control Lyapunov Functions to Stabilize the Estimates of Dynamical Systems.},
 author  = {Ogunmolu, Olalekan and Thompson, Rachael Skye and Pérez-Dattari, Rodrigo},
@@ -50,7 +50,7 @@ title   = {Kinematics and Kinetics of an In-Parallel-Actuated Soft Manipulator.}
 author  = {Ogunmolu, Olalekan},
 journal = {Technical Report, Perelman School of Medicine, University of Pennsylvania},
 year    = {2021},
-}</pre></details>
+}</pre></details> -->
 
 <!-- - [**Recent Trends in Robotic Frameless and Maskless Patient Motion Compensation in External Beam Radiation Therapy.**]()<details><summary>BibTeX</summary><pre>
 @article{TrendSRS,
